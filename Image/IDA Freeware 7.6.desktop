@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=0.9.4
+Name=IDA Freeware 7.6
+Comment=Interactive Disassembler Freeware 7.6
+Icon=/home/azabell/idafree-7.6/appico64.png
+Exec=/home/azabell/idafree-7.6/ida64
+Terminal=false

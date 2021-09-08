@@ -1,0 +1,14 @@
+[wargame]
+
+title = Format Sniper
+flag = FLAG{sample_flag}
+tags = pwnable
+
+[vm]
+
+os = linux
+memory = 2048
+disk = 32
+ports = 19131/tcp
+allow_outgoing = false
+docker_compose = false
